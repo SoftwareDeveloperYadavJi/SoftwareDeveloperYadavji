@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 🔧 I specialize in **Backend development**, creating scalable APIs and microservices.  
 - ☁️ Exploring **Cloud platforms** like AWS, Azure, and Google Cloud, along with **DevOps** practices for automated workflows.  
-- 💻 Experienced in **Java**, **Python**, **JavaScript**, **C++**, and **Go**.  
+- 💻 Experienced in **Java**, **Python**, **JavaScript**,**TypeScript**, **C++**, and **Go**.  
 - 🌱 Currently learning **Advanced DevOps tools** and **Spring Boot**.  
 - 🎯 Targeting roles in **Big tech** companies with aspirations to master end-to-end backend systems.  
 
