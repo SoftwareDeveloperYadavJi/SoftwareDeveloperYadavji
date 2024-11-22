@@ -8,6 +8,7 @@
 ## 🌐 Socials:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devnitin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nitiny1524) [![Mastodon](https://img.shields.io/badge/-Mastodon-%232B90D9?style=flat&logo=mastodon&logoColor=white)](https://mastodon.social/@nitiny1524)  
 
+---
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -43,6 +44,12 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+
+
+
+## 📄 Check Out My Resume:  
+
+[![Resume](https://img.shields.io/badge/My%20Resume-%23FFA500?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1JdaOK2v1-BiaoX0sw_QyfgUVbRPASBjP/view?usp=sharing)  
 
 
 
