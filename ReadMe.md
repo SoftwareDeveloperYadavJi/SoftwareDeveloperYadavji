@@ -6,7 +6,7 @@
 - 🎯 Targeting roles in **Big tech** companies with aspirations to master end-to-end backend systems.  
 
 ## 🌐 Socials:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devnitin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nitiny1524) [![Mastodon](https://img.shields.io/badge/-Mastodon-%232B90D9?style=flat&logo=mastodon&logoColor=white)](https://mastodon.social/@nitiny1524)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devnitin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nitiny1524) 
 
 ---
 
