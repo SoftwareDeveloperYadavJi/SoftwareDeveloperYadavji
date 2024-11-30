@@ -49,7 +49,7 @@
 
 ## 📄 Check Out My Resume:  
 
-[![Resume](https://img.shields.io/badge/My%20Resume-%23FFA500?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1JdaOK2v1-BiaoX0sw_QyfgUVbRPASBjP/view?usp=sharing)  
+[![Resume](https://img.shields.io/badge/My%20Resume-%23FFA500?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1us0lVbt13z8A8ztZUOa2il6luKy3sS5k/view)  
 
 
 
